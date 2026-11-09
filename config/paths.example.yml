@@ -1,0 +1,8 @@
+# Nonidentifiable relative paths beneath PHYSIOVAPING_DATA_ROOT.
+raw_restricted: raw_restricted
+interim_restricted: interim_restricted
+processed: processed
+metadata: Metadata
+eye_tracking: EyeTracking
+physiological: PhysiologicalData
+
